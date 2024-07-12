@@ -1,5 +1,9 @@
 # Dino Jump
 
+ ![1720799408139](image/README/1720799408139.png)
+
+  A screenshot of the gameplay.
+
 ## Introduction
 
 Dino Jump is an exciting, fast-paced platformer game where you control a cute dinosaur character jumping from cloud to cloud. Test your reflexes and see how high you can climb! This game is developed using React and TypeScript, with the assistance of Claude 3.5 Sonnet, an AI language model by Anthropic.
